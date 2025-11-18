@@ -1,1 +1,2 @@
+Change Log (2025-11-18) Create list of daily activites based on user inputs and constraints. Each activity should include type, estimated duration, cost range, and distance from lodging. Apply filters that match users preferences. Use day loop to build each day plan with morning, midday, afternoon, and evening activities or meals. Avoid repetition in activities and locations.
 “Module 2 — Plan Builder (Options → Days)” (time-of-day loop).
